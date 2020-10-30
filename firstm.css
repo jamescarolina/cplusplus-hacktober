@@ -1,0 +1,30 @@
+body{
+margin:0;
+}
+.nav{
+  margin:0;
+  position: absolute;
+  display: inline-block;
+  height: 50px;
+  width: 100%;
+  background-color: red;
+  text-align: center;
+}
+.home{
+  position: absolute;
+  left: 150px ;
+  margin:0;
+
+}
+.about{
+  position: absolute;
+  right:600px;
+  margin:0;
+
+}
+.communication{
+  position: absolute;
+  margin:0;
+
+  right: 150px ;
+}
