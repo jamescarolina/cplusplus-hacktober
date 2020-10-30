@@ -1,0 +1,44 @@
+body{
+  margin: 0;
+
+}
+.first {
+  background-color:grey;
+  width:100%;
+  height:680px;
+  text-align: center;
+top: 0;
+  margin: 0;
+}
+.firsth{
+  padding-top: 100px;
+  margin-bottom: 0;
+  font-style: italic;
+  font-size: 50px;
+    margin: 0;
+}
+.sech{
+  padding-top: 0;
+  font-size: 30px;
+}
+.vid{
+  text-decoration: underline;
+}
+.cloud1{
+  width:100px;
+  position: absolute;
+  right: 300px;
+  top: 100px;
+}
+.cloud2{
+  width: 150px;
+  position: absolute;
+  right: 900px;
+  top: 300px;
+}
+.mountain3{
+  position: absolute;
+  width: 600px;
+  top: 160px;
+  right: 330px;
+}
